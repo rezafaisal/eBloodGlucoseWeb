@@ -1,1 +1,1 @@
-### eBloodGlucose Mobile App
+### eBloodGlucose Web Application
